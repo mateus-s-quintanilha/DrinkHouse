@@ -1,0 +1,261 @@
+{
+    "beers": [
+
+        {
+            "price": "8.99",
+            "name": "Modelo Especial",
+            "rating": {
+                "average": 4.40,
+                "reviews": 453
+            },
+            "image": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/Modelo%20350ml.png.webp?itok=CX6z21M_",
+            "size": "350ml",
+            "about": "Slow-roasted malts for longer flavor. A beer specially prepared with all the whim and excellence. Model, perfecting the art of roasting malts for 90 years.",
+            "id": 1
+        },
+
+        {
+            "price": "14.99",
+            "name": "Budweiser",
+            "rating": {
+                "average": 4.80,
+                "reviews": 250
+            },
+            "image": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/Budweiser%20269ml.png.webp?itok=mh6-3VVQ",
+            "size": "269ml",
+            "about": "The Budweiser production process is different, as it uses Beechwood chips (special wood) during the fermentation and maturation processes. The result is a beer with a unique flavor and perfect balance: striking at the beginning and smooth at the end.",
+            "id": 2
+        },
+        
+        {
+            "price": "16.99",
+            "name": "Colorado",
+            "rating": {
+                "average": 3.80,
+                "reviews": 581
+            },
+            "image": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-06/ribeir%C3%A3o-larger---350ml.png.webp?itok=dh9OTj87",
+            "size": "350ml",
+            "about": "A beer that the name says it all. Born in Ribeirão Preto, our home, it is a light and refreshing lager, but with the face of Colorado, a brewery that would never do more of the same: clear beer with orange, with IBU 20 and 4.5% alcohol content with all quality of the first craft brewery in Brazil.",
+            "id": 3
+        },
+
+        {
+            "price": "11.99",
+            "name": "Spaten",
+            "rating": {
+                "average": 4.20,
+                "reviews": 168
+            },
+            "image": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-06/spaten-350ml.png.webp?itok=CuCvrESQ",
+            "size": "350ml",
+            "about": "Beer authority. One of the first pure malts in the world and one of the official breweries of the Oktoberfest in Munich, Germany. Made with a rigorous process, following the Munich recipe, where it was created in 1397. A pure malt beer with a striking flavor and present bitterness.",
+            "id": 4
+        },
+
+        {
+            "price": "6.99",
+            "name": "Stella Artois",
+            "rating": {
+                "average": 4.90,
+                "reviews": 101
+            },
+            "image": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/andes350ml%20%282%29_0.png.webp?itok=d6zbucDY",
+            "size": "269ml",
+            "about": "The Stella Artois recipe was created as a Christmas present for the inhabitants of the small town of Leuven, Belgium. It was named Stella, Latin for star. Its unique recipe produces a beer with smooth aromas and malty notes. A beer Intense flavor and smooth finish.",
+            "id": 5
+        },
+
+        {
+            "price": "3.99",
+            "name": "Bohemia Magna Pils",
+            "rating": {
+                "average": 4.0,
+                "reviews": 789
+            },
+            "image": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/PRODUTOS_1.png.webp?itok=Vg0kysIs",
+            "size": "330ml",
+            "about": "Created in 1853 by the German Henrique Kremer, Bohemia is the first beer in Brazil. Produced with imported raw material from its first bottle, it is essential in the glass of those who understand beer.",
+            "id": 6
+        },
+
+        {
+            "price": "5.99",
+            "name": "Hoegaarden Wit Blanche",
+            "rating": {
+                "average": 4.30,
+                "reviews": 241
+            },
+            "image": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/hoegaarden.png.webp?itok=5aWUfNsz",
+            "size": "330ml",
+            "about": "Hoegaarden is a Belgian Witbier made from wheat, unfiltered and light in color. Coriander seeds and orange peel zest, used in your recipe, give it a refreshing, smooth and at the same time sweet and slightly citric flavor. With a striking aroma and original flavor, Hoegaarden has won the World Beer Cup® Gold Award 6 times and harmonizes perfectly with fish and seafood.",
+            "id": 7
+        },
+
+        {
+            "price": "10.99",
+            "name": "Becks Long Neck",
+            "rating": {
+                "average": 3.50,
+                "reviews": 984
+            },
+            "image": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/becksln.png.webp?itok=n2JXtr2i",
+            "size": "330ml",
+            "about": "Beck's is a legitimate Pure Malt German Lager, which strictly follows the purity law of German beer since 1873. Its IBU (International Bitterness Unit) is 20. The result is a beer with intense bitterness, outstanding flavor and exceptional purity. it is provocative, full of personality and with a characteristic and unique flavor. The best selling German beer in the world.",
+            "id": 8
+        }
+
+    ],
+    "sodas": [
+        {
+            "price": "3.99",
+            "name": "Pepsi",
+            "rating": {
+                "average": 4.40,
+                "reviews": 291
+            },
+            "image": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/PRODUTOS%20%2869%29.png.webp?itok=_EQHvWIa",
+            "size": "355ml",
+            "about": "Originally, Pepsi's formula was created for medicinal purposes. But its taste pleased so much that the syrup began to be consumed simply for pleasure. Five years later, the formula was turned into a drink and started to be sold. Today, Pepsi is a cola drink with a natural flavor, much appreciated for its mild flavor and freshness.",
+            "id": 1
+        },
+        {
+            "price": "2.99",
+            "name": "Guaraná Antártica",
+            "rating": {
+                "average": 4.90,
+                "reviews": 453
+            },
+            "image": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/PRODUTOS%20%2894%29.png.webp?itok=E5-8jmlK",
+            "size": "355ml",
+            "about": "Brazilian soda with a unique and natural flavor, made from the guarana fruit planted and harvested in the Amazon.",
+            "id": 2
+        },
+
+        {
+            "price": "3.49",
+            "name": "H2OH",
+            "rating": {
+                "average": 4.70,
+                "reviews": 500
+            },
+            "image": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/PRODUTOS%20%2883%29.png.webp?itok=Kxjbog9Q",
+            "size": "310ml",
+            "about": "Slightly carbonated drink, with zero sugar, source of B vitamins and natural lemon juice.",
+            "id": 3
+        },
+
+        {
+            "price": "4.99",
+            "name": "Ginger Ale",
+            "rating": {
+                "average": 3.70,
+                "reviews": 250
+            },
+            "image": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/PRODUTOS%20-%202022-09-22T163215.293.png.webp?itok=1TOj0pXf",
+            "size": "355ml",
+            "about": "Ginger drink.",
+            "id": 4
+        }
+    ],
+    "energyDrink": [
+        {
+            "price": "4.99",
+            "name": "Fusion",
+            "rating": {
+                "average": 4.80,
+                "reviews": 191
+            },
+            "image": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/PRODUTOS%20%2810%29.png.webp?itok=MH8aWgcE",
+            "size": "250ml",
+            "about": "Fusion is made for those who enjoy the night intensely and are always ready for the next one.",
+            "id": 1
+        },
+        {
+            "price": "4.99",
+            "name": "Fusion Citrus",
+            "rating": {
+                "average": 4.80,
+                "reviews": 191
+            },
+            "image": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/PRODUTOS%20%2814%29.png.webp?itok=P7vP4bZ5",
+            "size": "250ml",
+            "about": "Fusion is made for those who enjoy the night intensely and are always ready for the next one.",
+            "id": 2
+        },
+        {
+            "price": "4.99",
+            "name": "Fusion Tropical Fruit",
+            "rating": {
+                "average": 4.80,
+                "reviews": 191
+            },
+            "image": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/PRODUTOS%20%2813%29.png.webp?itok=Td9myfAx",
+            "size": "250ml",
+            "about": "Fusion is made for those who enjoy the night intensely and are always ready for the next one.",
+            "id": 3
+        },
+        {
+            "price": "4.99",
+            "name": "Fusion Guaraná",
+            "rating": {
+                "average": 4.80,
+                "reviews": 191
+            },
+            "image": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/PRODUTOS%20%2812%29.png.webp?itok=B1eHfaW8",
+            "size": "250ml",
+            "about": "Fusion is made for those who enjoy the night intensely and are always ready for the next one.",
+            "id": 4
+        }
+    ],
+    "juices": [
+        {
+            "price": "4.99",
+            "name": "Do Bem Orange Juice",
+            "rating": {
+                "average": 4.80,
+                "reviews": 191
+            },
+            "image": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/PRODUTOS%20%2827%29.png.webp?itok=HZsAHi8x",
+            "size": "1L",
+            "about": "“A juice house in legal packaging”. The good one arose from the desire to make natural juices for you to drink anywhere. After doing a lot of research and traveling the world trying drinks and looking for technologies, the founder traveled around Brazil to find the right producers and start do bem™, a place that would inspire people wanting to change the world.",
+            "id": 1
+        },
+        {
+            "price": "4.99",
+            "name": "Do Bem Peach Juice",
+            "rating": {
+                "average": 4.20,
+                "reviews": 234
+            },
+            "image": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/PRODUTOS%20%2818%29.png.webp?itok=U7kW1E2M",
+            "size": "1L",
+            "about": "“A juice house in legal packaging”. The good one arose from the desire to make natural juices for you to drink anywhere. After doing a lot of research and traveling the world trying drinks and looking for technologies, the founder traveled around Brazil to find the right producers and start do bem™, a place that would inspire people wanting to change the world.",
+            "id": 2
+        },
+        {
+            "price": "4.99",
+            "name": "Do Bem cashew Juice",
+            "rating": {
+                "average": 4.40,
+                "reviews": 234
+            },
+            "image": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/PRODUTOS%20%2824%29.png.webp?itok=nIrqrRk5",
+            "size": "1L",
+            "about": "“A juice house in legal packaging”. The good one arose from the desire to make natural juices for you to drink anywhere. After doing a lot of research and traveling the world trying drinks and looking for technologies, the founder traveled around Brazil to find the right producers and start do bem™, a place that would inspire people wanting to change the world.",
+            "id": 3
+        },
+        {
+            "price": "4.99",
+            "name": "Do Bem Guava Juice",
+            "rating": {
+                "average": 4.50,
+                "reviews": 234
+            },
+            "image": "https://www.ambev.com.br/sites/g/files/wnfebl5836/files/styles/webp/public/paragraphs/product_size/2022-09/PRODUTOS%20%2822%29.png.webp?itok=MulranjR",
+            "size": "1L",
+            "about": "“A juice house in legal packaging”. The good one arose from the desire to make natural juices for you to drink anywhere. After doing a lot of research and traveling the world trying drinks and looking for technologies, the founder traveled around Brazil to find the right producers and start do bem™, a place that would inspire people wanting to change the world.",
+            "id": 4
+        }
+    ]
+}
